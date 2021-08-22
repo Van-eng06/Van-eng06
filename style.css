@@ -1,0 +1,20 @@
+body{background-image: linear-gradient(to right, rgba(0, 255, 221, 0.801) , rgb(0, 255, 157));}
+.icon{text-decoration: none;color:rgb(59, 59, 50);font-size:smaller;}
+.card{border-radius:1.25rem;margin: 8%;float: left;}
+.card-img-top{border-top-left-radius: 1.25rem;border-top-right-radius: 1.25rem;}
+.container-fluid{background-color: white;border-style:groove;width: fit-content;float: left;margin-top: 8%;border-radius: 1.25rem;}
+.Avatar{width: 9rem;display: block;margin-left: auto;margin: auto;}
+.logo{width:20px}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    padding: 1px;
+  }
+  
+  .grid-container > div {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+  }
+  .icon-logo{width:;}
